@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventHandler", "EventHandler\EventHandler.csproj", "{425F8B2B-F8DF-4AEF-BAB7-495B98AA0951}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSource", "EventSource\EventSource.csproj", "{8271B433-DBA3-4CC8-80C3-0C404B587EF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{86EF9724-A191-44EC-BB33-4E426ACD4A3D}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425F8B2B-F8DF-4AEF-BAB7-495B98AA0951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425F8B2B-F8DF-4AEF-BAB7-495B98AA0951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425F8B2B-F8DF-4AEF-BAB7-495B98AA0951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425F8B2B-F8DF-4AEF-BAB7-495B98AA0951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8271B433-DBA3-4CC8-80C3-0C404B587EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8271B433-DBA3-4CC8-80C3-0C404B587EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8271B433-DBA3-4CC8-80C3-0C404B587EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8271B433-DBA3-4CC8-80C3-0C404B587EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88F249C-B401-474F-851E-585B73775DE2}
+	EndGlobalSection
+EndGlobal
